@@ -176,7 +176,15 @@
         "vehicle_model": "YutongZK6126HG"
     },
     {
+        "vehicle_id": "JSU4727",
+        "vehicle_model": "YutongZK6126HG"
+    },
+    {
         "vehicle_id": "JSN5809",
+        "vehicle_model": "YutongZK6126HG"
+    },
+    {
+        "vehicle_id": "JSN7064",
         "vehicle_model": "YutongZK6126HG"
     },
     {
@@ -193,6 +201,10 @@
     },
     {
         "vehicle_id": "JSK7324",
+        "vehicle_model": "YutongZK6126HG"
+    },
+    {
+        "vehicle_id": "JSU4730",
         "vehicle_model": "YutongZK6126HG"
     },
     {
@@ -284,6 +296,10 @@
         "vehicle_model": "YutongZK6126HG"
     },
     {
+        "vehicle_id": "JSK3641",
+        "vehicle_model": "YutongZK6126HG"
+    },
+    {
         "vehicle_id": "JSN5806",
         "vehicle_model": "YutongZK6126HG"
     },
@@ -300,7 +316,23 @@
         "vehicle_model": "YutongZK6126HG"
     },
     {
+        "vehicle_id": "JSK4310",
+        "vehicle_model": "YutongZK6126HG"
+    },
+    {
         "vehicle_id": "JTC9546",
+        "vehicle_model": "YutongZK6126HG"
+    },
+    {
+        "vehicle_id": "JTF6014",
+        "vehicle_model": "YutongZK6126HG"
+    },
+    {
+        "vehicle_id": "JSU4732",
+        "vehicle_model": "YutongZK6126HG"
+    },
+    {
+        "vehicle_id": "JSL6461",
         "vehicle_model": "YutongZK6126HG"
     },
     {
@@ -332,6 +364,14 @@
         "vehicle_model": "YutongZK6118HGA"
     },
     {
+        "vehicle_id": "JQR2876",
+        "vehicle_model": "YutongZK6118HGA"
+    },
+    {
+        "vehicle_id": "JRJ7807",
+        "vehicle_model": "YutongZK6118HGA"
+    },
+    {
         "vehicle_id": "JQT5728",
         "vehicle_model": "YutongZK6118HGA"
     },
@@ -344,7 +384,23 @@
         "vehicle_model": "YutongZK6118HGA"
     },
     {
+        "vehicle_id": "JRQ3490",
+        "vehicle_model": "YutongZK6118HGA"
+    },
+    {
+        "vehicle_id": "JQT6874",
+        "vehicle_model": "YutongZK6118HGA"
+    },
+    {
+        "vehicle_id": "JRF5867",
+        "vehicle_model": "YutongZK6118HGA"
+    },
+    {
         "vehicle_id": "JRY5144",
+        "vehicle_model": "YutongZK6118HGA"
+    },
+    {
+        "vehicle_id": "JQT5765",
         "vehicle_model": "YutongZK6118HGA"
     },
     {
@@ -353,6 +409,14 @@
     },
     {
         "vehicle_id": "JQT6951",
+        "vehicle_model": "YutongZK6118HGA"
+    },
+    {
+        "vehicle_id": "JRJ4038",
+        "vehicle_model": "YutongZK6118HGA"
+    },
+    {
+        "vehicle_id": "JRJ7790",
         "vehicle_model": "YutongZK6118HGA"
     },
     {
@@ -384,6 +448,10 @@
         "vehicle_model": "HinoXZU720R"
     },
     {
+        "vehicle_id": "PPF1113",
+        "vehicle_model": "HinoXZU720R"
+    },
+    {
         "vehicle_id": "JTK6065",
         "vehicle_model": "HinoXZU720R"
     },
@@ -405,6 +473,14 @@
     },
     {
         "vehicle_id": "JTM5052",
+        "vehicle_model": "HinoXZU720R"
+    },
+    {
+        "vehicle_id": "PPF1115",
+        "vehicle_model": "HinoXZU720R"
+    },
+    {
+        "vehicle_id": "JTJ9902",
         "vehicle_model": "HinoXZU720R"
     },
     {
@@ -460,11 +536,23 @@
         "vehicle_model": "HinoXZU720R"
     },
     {
+        "vehicle_id": "JTH9658",
+        "vehicle_model": "HinoXZU720R"
+    },
+    {
         "vehicle_id": "JTG8973",
         "vehicle_model": "HinoXZU720R"
     },
     {
         "vehicle_id": "JTT5232",
+        "vehicle_model": "HinoXZU720R"
+    },
+    {
+        "vehicle_id": "JTM6062",
+        "vehicle_model": "HinoXZU720R"
+    },
+    {
+        "vehicle_id": "JTD9932",
         "vehicle_model": "HinoXZU720R"
     },
     {
@@ -492,7 +580,19 @@
         "vehicle_model": "HinoRK1JSLL"
     },
     {
+        "vehicle_id": "JSM8851",
+        "vehicle_model": "HinoRK1JSLL"
+    },
+    {
+        "vehicle_id": "JRQ9692",
+        "vehicle_model": "HinoRK1JSLL"
+    },
+    {
         "vehicle_id": "VDP8519",
+        "vehicle_model": "HinoMidiBus"
+    },
+    {
+        "vehicle_id": "VDP9719",
         "vehicle_model": "HinoMidiBus"
     },
     {
@@ -504,7 +604,19 @@
         "vehicle_model": "SksbusLEC-300H"
     },
     {
+        "vehicle_id": "SS8569Y",
+        "vehicle_model": "SksbusLEC-300H"
+    },
+    {
+        "vehicle_id": "JSP847",
+        "vehicle_model": "SksbusLEC-300H"
+    },
+    {
         "vehicle_id": "JSM4559",
+        "vehicle_model": "SksbusLEC-300H"
+    },
+    {
+        "vehicle_id": "JSM5469",
         "vehicle_model": "SksbusLEC-300H"
     },
     {
@@ -556,6 +668,10 @@
         "vehicle_model": "SksbusLEC-300H"
     },
     {
+        "vehicle_id": "JSG4259",
+        "vehicle_model": "SksbusLEC-300H"
+    },
+    {
         "vehicle_id": "JSF4456",
         "vehicle_model": "SksbusLEC-300H"
     },
@@ -573,6 +689,10 @@
     },
     {
         "vehicle_id": "JSG4969",
+        "vehicle_model": "SksbusLEC-300H"
+    },
+    {
+        "vehicle_id": "JSC8037",
         "vehicle_model": "SksbusLEC-300H"
     },
     {
@@ -596,11 +716,19 @@
         "vehicle_model": "SksbusLEC-300H"
     },
     {
+        "vehicle_id": "SS7225Y",
+        "vehicle_model": "SksbusLEC-300H"
+    },
+    {
         "vehicle_id": "JSN521",
         "vehicle_model": "SksbusLEC-300H"
     },
     {
         "vehicle_id": "JSG5644",
+        "vehicle_model": "SksbusLEC-300H"
+    },
+    {
+        "vehicle_id": "JSN4786",
         "vehicle_model": "SksbusLEC-300H"
     },
     {
@@ -648,7 +776,23 @@
         "vehicle_model": "SksbusSA12-300"
     },
     {
+        "vehicle_id": "JRU2142",
+        "vehicle_model": "SksbusSA12-300"
+    },
+    {
+        "vehicle_id": "JQG6350",
+        "vehicle_model": "SksbusSA12-300"
+    },
+    {
+        "vehicle_id": "JPG4977",
+        "vehicle_model": "SksbusSA12-300"
+    },
+    {
         "vehicle_id": "VCP5519",
+        "vehicle_model": "ScaniaK250UB"
+    },
+    {
+        "vehicle_id": "VDK8019",
         "vehicle_model": "ScaniaK250UB"
     },
     {
@@ -657,6 +801,14 @@
     },
     {
         "vehicle_id": "JQH4291",
+        "vehicle_model": "ScaniaK250IB"
+    },
+    {
+        "vehicle_id": "JQS3453",
+        "vehicle_model": "ScaniaK250IB"
+    },
+    {
+        "vehicle_id": "JQM3902",
         "vehicle_model": "ScaniaK250IB"
     },
     {
@@ -680,6 +832,10 @@
         "vehicle_model": "ScaniaK250IB"
     },
     {
+        "vehicle_id": "JQM3857",
+        "vehicle_model": "ScaniaK250IB"
+    },
+    {
         "vehicle_id": "JMQ4476",
         "vehicle_model": "ScaniaK310IB"
     },
@@ -697,6 +853,18 @@
     },
     {
         "vehicle_id": "JNA1145",
+        "vehicle_model": "ScaniaK310IB"
+    },
+    {
+        "vehicle_id": "JNH712",
+        "vehicle_model": "ScaniaK310IB"
+    },
+    {
+        "vehicle_id": "JQM4054",
+        "vehicle_model": "ScaniaK310IB"
+    },
+    {
+        "vehicle_id": "JMX3032",
         "vehicle_model": "ScaniaK310IB"
     },
     {
@@ -784,6 +952,10 @@
         "vehicle_model": "Unknown"
     },
     {
+        "vehicle_id": "JWJ2361",
+        "vehicle_model": "Unknown"
+    },
+    {
         "vehicle_id": "JVM7134",
         "vehicle_model": "Unknown"
     },
@@ -820,6 +992,10 @@
         "vehicle_model": "Unknown"
     },
     {
+        "vehicle_id": "JVX1031",
+        "vehicle_model": "Unknown"
+    },
+    {
         "vehicle_id": "JMY8371",
         "vehicle_model": "Unknown"
     },
@@ -828,7 +1004,15 @@
         "vehicle_model": "Unknown"
     },
     {
+        "vehicle_id": "JWB5941",
+        "vehicle_model": "Unknown"
+    },
+    {
         "vehicle_id": "JRU2114",
+        "vehicle_model": "Unknown"
+    },
+    {
+        "vehicle_id": "JWB5930",
         "vehicle_model": "Unknown"
     },
     {
@@ -861,6 +1045,10 @@
     },
     {
         "vehicle_id": "JRR3941",
+        "vehicle_model": "Unknown"
+    },
+    {
+        "vehicle_id": "JRJ7760",
         "vehicle_model": "Unknown"
     },
     {
@@ -908,7 +1096,35 @@
         "vehicle_model": "Unknown"
     },
     {
+        "vehicle_id": "JTU4290",
+        "vehicle_model": "Unknown"
+    },
+    {
         "vehicle_id": "JSG5646",
+        "vehicle_model": "Unknown"
+    },
+    {
+        "vehicle_id": "JRY7027",
+        "vehicle_model": "Unknown"
+    },
+    {
+        "vehicle_id": "JSG6384",
+        "vehicle_model": "Unknown"
+    },
+    {
+        "vehicle_id": "SS9658Y",
+        "vehicle_model": "Unknown"
+    },
+    {
+        "vehicle_id": "JSL6478",
+        "vehicle_model": "Unknown"
+    },
+    {
+        "vehicle_id": "JVY6703",
+        "vehicle_model": "Unknown"
+    },
+    {
+        "vehicle_id": "JST8892",
         "vehicle_model": "Unknown"
     },
     {
@@ -916,7 +1132,19 @@
         "vehicle_model": "Unknown"
     },
     {
+        "vehicle_id": "JWK978",
+        "vehicle_model": "Unknown"
+    },
+    {
         "vehicle_id": "JWJ3041",
+        "vehicle_model": "Unknown"
+    },
+    {
+        "vehicle_id": "JWH9612",
+        "vehicle_model": "Unknown"
+    },
+    {
+        "vehicle_id": "VE2316",
         "vehicle_model": "Unknown"
     },
     {
