@@ -1,8 +1,7 @@
 # Track - MyBasJB
+A web app developed by City Rails that tracks live location, bus type and regustation of buses operating in Johor bahru or by CausewayLink. Perfect for bus spotters and enthusiasist!
 
-A web app developed by City Rails that tracks live location of buses in Johor bahru and CausewayLink buses.
-
-### >Have a go here!
+### > Have a go here!
 https://cityrails.info/track/mybasjb/
 
 ![readme_img](https://github.com/DexterKwok/Track-MyBasJB/blob/main/readme_img.png)
