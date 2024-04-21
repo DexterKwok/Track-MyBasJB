@@ -304,6 +304,10 @@
         "vehicle_model": "Pioneer"
     },
     {
+        "vehicle_id": "VCC5518",
+        "vehicle_model": "ScaniaK250UB"
+    },
+    {
         "vehicle_id": "VCP5519",
         "vehicle_model": "ScaniaK250UB"
     },
@@ -424,6 +428,10 @@
         "vehicle_model": "SksbusLEC-300H"
     },
     {
+        "vehicle_id": "SS9757Y",
+        "vehicle_model": "SksbusLEC-300H"
+    },
+    {
         "vehicle_id": "JSP847",
         "vehicle_model": "SksbusLEC-300H"
     },
@@ -484,7 +492,15 @@
         "vehicle_model": "SksbusLEC-300H"
     },
     {
+        "vehicle_id": "JSP1386",
+        "vehicle_model": "SksbusLEC-300H"
+    },
+    {
         "vehicle_id": "JSN2136",
+        "vehicle_model": "SksbusLEC-300H"
+    },
+    {
+        "vehicle_id": "JSN4784",
         "vehicle_model": "SksbusLEC-300H"
     },
     {
@@ -652,6 +668,10 @@
         "vehicle_model": "YutongZK6126HG"
     },
     {
+        "vehicle_id": "JSK3634",
+        "vehicle_model": "YutongZK6126HG"
+    },
+    {
         "vehicle_id": "JSK2535",
         "vehicle_model": "YutongZK6126HG"
     },
@@ -745,6 +765,10 @@
     },
     {
         "vehicle_id": "JSP1236",
+        "vehicle_model": "YutongZK6126HG"
+    },
+    {
+        "vehicle_id": "JSQ4264",
         "vehicle_model": "YutongZK6126HG"
     },
     {
@@ -945,6 +969,10 @@
     },
     {
         "vehicle_id": "JRJ4016",
+        "vehicle_model": "YutongZK6118HGA"
+    },
+    {
+        "vehicle_id": "JRJ7842",
         "vehicle_model": "YutongZK6118HGA"
     },
     {
