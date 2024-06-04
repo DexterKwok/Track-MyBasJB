@@ -108,6 +108,10 @@
         "vehicle_model": "FotonC12"
     },
     {
+        "vehicle_id": "JWV1256",
+        "vehicle_model": "FotonC12"
+    },
+    {
         "vehicle_id": "JTP2227",
         "vehicle_model": "HinoXZU720R"
     },
@@ -300,6 +304,10 @@
         "vehicle_model": "NissanJP251"
     },
     {
+        "vehicle_id": "VAL9517",
+        "vehicle_model": "NissanJP251"
+    },
+    {
         "vehicle_id": "VBQ4418",
         "vehicle_model": "Pioneer"
     },
@@ -453,6 +461,10 @@
     },
     {
         "vehicle_id": "JSC6109",
+        "vehicle_model": "SksbusLEC-300H"
+    },
+    {
+        "vehicle_id": "JSG709",
         "vehicle_model": "SksbusLEC-300H"
     },
     {
@@ -796,6 +808,10 @@
         "vehicle_model": "YutongZK6126HG"
     },
     {
+        "vehicle_id": "JVY1958",
+        "vehicle_model": "YutongZK6126HG"
+    },
+    {
         "vehicle_id": "JSU4732",
         "vehicle_model": "YutongZK6126HG"
     },
@@ -969,6 +985,14 @@
     },
     {
         "vehicle_id": "JRJ4016",
+        "vehicle_model": "YutongZK6118HGA"
+    },
+    {
+        "vehicle_id": "JQQ3934",
+        "vehicle_model": "YutongZK6118HGA"
+    },
+    {
+        "vehicle_id": "JQQ4249",
         "vehicle_model": "YutongZK6118HGA"
     },
     {
@@ -1297,6 +1321,14 @@
     },
     {
         "vehicle_id": "JWG7468",
+        "vehicle_model": "Unknown"
+    },
+    {
+        "vehicle_id": "JUC1250",
+        "vehicle_model": "Unknown"
+    },
+    {
+        "vehicle_id": "JRU2126",
         "vehicle_model": "Unknown"
     }
 ]
