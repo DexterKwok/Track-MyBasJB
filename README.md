@@ -10,14 +10,10 @@ https://cityrails.info/track/mybasjb/
 
 https://github.com/DexterKwok/Track---MyBasJB/issues
 
-### > Sources:
-- data.gov.my (GTFS Data)
-- LandTransportGuru (Bus reg)
-- Businterchange.net (Bus reg)
+### > Sources and contributors:
 
-### > Contributors:
-- 
+https://cityrails.info/track/contributors.html
 
 Note: Web app currently under development and code not for redistribute.
 
-Last updated: 11 March 2024
+Last updated: 4 June 2024
