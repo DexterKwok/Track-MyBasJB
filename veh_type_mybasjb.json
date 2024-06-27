@@ -52,10 +52,6 @@
         "vehicle_model": "FotonC10"
     },
     {
-        "vehicle_id": "JWG7472",
-        "vehicle_model": "FotonC10"
-    },
-    {
         "vehicle_id": "JWG6029",
         "vehicle_model": "FotonC10"
     },
@@ -88,7 +84,51 @@
         "vehicle_model": "FotonC10"
     },
     {
+        "vehicle_id": "JWS6854",
+        "vehicle_model": "FotonC10"
+    },
+    {
+        "vehicle_id": "JWT2749",
+        "vehicle_model": "FotonC10"
+    },
+    {
         "vehicle_id": "JWT2758",
+        "vehicle_model": "FotonC10"
+    },
+    {
+        "vehicle_id": "JWT2760",
+        "vehicle_model": "FotonC10"
+    },
+    {
+        "vehicle_id": "JWT2765",
+        "vehicle_model": "FotonC10"
+    },
+    {
+        "vehicle_id": "JWT3060",
+        "vehicle_model": "FotonC10"
+    },
+    {
+        "vehicle_id": "JWT3068",
+        "vehicle_model": "FotonC10"
+    },
+    {
+        "vehicle_id": "JWT3071",
+        "vehicle_model": "FotonC10"
+    },
+    {
+        "vehicle_id": "JWT9851",
+        "vehicle_model": "FotonC10"
+    },
+    {
+        "vehicle_id": "JWT9862",
+        "vehicle_model": "FotonC10"
+    },
+    {
+        "vehicle_id": "JWU3487",
+        "vehicle_model": "FotonC10"
+    },
+    {
+        "vehicle_id": "JWU3494",
         "vehicle_model": "FotonC10"
     },
     {
@@ -1112,223 +1152,11 @@
         "vehicle_model": "YutongZK6118HGA"
     },
     {
-        "vehicle_id": "JWG7464",
-        "vehicle_model": "Unknown"
+        "vehicle_id": "JQT6825",
+        "vehicle_model": "YutongZK6118HGA"
     },
     {
-        "vehicle_id": "JWU3494",
-        "vehicle_model": "Unknown"
-    },
-    {
-        "vehicle_id": "JRJ3965",
-        "vehicle_model": "Unknown"
-    },
-    {
-        "vehicle_id": "JWG7914",
-        "vehicle_model": "Unknown"
-    },
-    {
-        "vehicle_id": "SS9768Y",
-        "vehicle_model": "Unknown"
-    },
-    {
-        "vehicle_id": "JSP1379",
-        "vehicle_model": "Unknown"
-    },
-    {
-        "vehicle_id": "JTV7929",
-        "vehicle_model": "Unknown"
-    },
-    {
-        "vehicle_id": "JTV7925",
-        "vehicle_model": "Unknown"
-    },
-    {
-        "vehicle_id": "JWK985",
-        "vehicle_model": "Unknown"
-    },
-    {
-        "vehicle_id": "JWD6930",
-        "vehicle_model": "Unknown"
-    },
-    {
-        "vehicle_id": "JVY6694",
-        "vehicle_model": "Unknown"
-    },
-    {
-        "vehicle_id": "JTU5264",
-        "vehicle_model": "Unknown"
-    },
-    {
-        "vehicle_id": "JVM7135",
-        "vehicle_model": "Unknown"
-    },
-    {
-        "vehicle_id": "JSN4406",
-        "vehicle_model": "Unknown"
-    },
-    {
-        "vehicle_id": "JWA5348",
-        "vehicle_model": "Unknown"
-    },
-    {
-        "vehicle_id": "VJ6916",
-        "vehicle_model": "Unknown"
-    },
-    {
-        "vehicle_id": "JMY8371",
-        "vehicle_model": "Unknown"
-    },
-    {
-        "vehicle_id": "JRU2114",
-        "vehicle_model": "Unknown"
-    },
-    {
-        "vehicle_id": "JWB5930",
-        "vehicle_model": "Unknown"
-    },
-    {
-        "vehicle_id": "JSG5645",
-        "vehicle_model": "Unknown"
-    },
-    {
-        "vehicle_id": "JQU4763",
-        "vehicle_model": "Unknown"
-    },
-    {
-        "vehicle_id": "JSG5652",
-        "vehicle_model": "Unknown"
-    },
-    {
-        "vehicle_id": "JQU4757",
-        "vehicle_model": "Unknown"
-    },
-    {
-        "vehicle_id": "JRU2145",
-        "vehicle_model": "Unknown"
-    },
-    {
-        "vehicle_id": "JVM7139",
-        "vehicle_model": "Unknown"
-    },
-    {
-        "vehicle_id": "JSP1374",
-        "vehicle_model": "Unknown"
-    },
-    {
-        "vehicle_id": "JRR3941",
-        "vehicle_model": "Unknown"
-    },
-    {
-        "vehicle_id": "JRJ7760",
-        "vehicle_model": "Unknown"
-    },
-    {
-        "vehicle_id": "JSV1145",
-        "vehicle_model": "Unknown"
-    },
-    {
-        "vehicle_id": "JWF6909",
-        "vehicle_model": "Unknown"
-    },
-    {
-        "vehicle_id": "JWC3792",
-        "vehicle_model": "Unknown"
-    },
-    {
-        "vehicle_id": "JWF6914",
-        "vehicle_model": "Unknown"
-    },
-    {
-        "vehicle_id": "JWT3060",
-        "vehicle_model": "Unknown"
-    },
-    {
-        "vehicle_id": "JWT2765",
-        "vehicle_model": "Unknown"
-    },
-    {
-        "vehicle_id": "JWJ2354",
-        "vehicle_model": "Unknown"
-    },
-    {
-        "vehicle_id": "JWT2760",
-        "vehicle_model": "Unknown"
-    },
-    {
-        "vehicle_id": "JWT9862",
-        "vehicle_model": "Unknown"
-    },
-    {
-        "vehicle_id": "JWF2945",
-        "vehicle_model": "Unknown"
-    },
-    {
-        "vehicle_id": "JTU4290",
-        "vehicle_model": "Unknown"
-    },
-    {
-        "vehicle_id": "JSG5646",
-        "vehicle_model": "Unknown"
-    },
-    {
-        "vehicle_id": "JRY7027",
-        "vehicle_model": "Unknown"
-    },
-    {
-        "vehicle_id": "JSG6384",
-        "vehicle_model": "Unknown"
-    },
-    {
-        "vehicle_id": "SS9658Y",
-        "vehicle_model": "Unknown"
-    },
-    {
-        "vehicle_id": "JSL6478",
-        "vehicle_model": "Unknown"
-    },
-    {
-        "vehicle_id": "JST8892",
-        "vehicle_model": "Unknown"
-    },
-    {
-        "vehicle_id": "JWB5934",
-        "vehicle_model": "Unknown"
-    },
-    {
-        "vehicle_id": "JSM3206",
-        "vehicle_model": "Unknown"
-    },
-    {
-        "vehicle_id": "JWK978",
-        "vehicle_model": "Unknown"
-    },
-    {
-        "vehicle_id": "JWJ3041",
-        "vehicle_model": "Unknown"
-    },
-    {
-        "vehicle_id": "JWH9612",
-        "vehicle_model": "Unknown"
-    },
-    {
-        "vehicle_id": "VE2316",
-        "vehicle_model": "Unknown"
-    },
-    {
-        "vehicle_id": "VE1416",
-        "vehicle_model": "Unknown"
-    },
-    {
-        "vehicle_id": "JWG7468",
-        "vehicle_model": "Unknown"
-    },
-    {
-        "vehicle_id": "JUC1250",
-        "vehicle_model": "Unknown"
-    },
-    {
-        "vehicle_id": "JRU2126",
-        "vehicle_model": "Unknown"
+        "vehicle_id": "JQQ3942",
+        "vehicle_model": "YutongZK6118HGA"
     }
 ]
