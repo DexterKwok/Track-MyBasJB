@@ -1,5 +1,17 @@
 [
     {
+        "vehicle_id": "JWU2240",
+        "vehicle_model": "Asiastar6990"
+    },
+    {
+        "vehicle_id": "JWJ6492",
+        "vehicle_model": "Asiastar6990"
+    },
+    {
+        "vehicle_id": "JVT1249",
+        "vehicle_model": "Asiastar6990"
+    },
+    {
         "vehicle_id": "JTU5268",
         "vehicle_model": "CamCoStar"
     },
@@ -33,6 +45,10 @@
     },
     {
         "vehicle_id": "JWK7519",
+        "vehicle_model": "FotonC8L"
+    },
+    {
+        "vehicle_id": "JWM6817",
         "vehicle_model": "FotonC8L"
     },
     {
@@ -129,6 +145,10 @@
     },
     {
         "vehicle_id": "JWU3494",
+        "vehicle_model": "FotonC10"
+    },
+    {
+        "vehicle_id": "JWU3490",
         "vehicle_model": "FotonC10"
     },
     {
@@ -364,6 +384,14 @@
         "vehicle_model": "ScaniaK250UB"
     },
     {
+        "vehicle_id": "VAM1317",
+        "vehicle_model": "ScaniaK250UB"
+    },
+    {
+        "vehicle_id": "VDJ8719",
+        "vehicle_model": "ScaniaK250UB"
+    },
+    {
         "vehicle_id": "JRY7016",
         "vehicle_model": "ScaniaK250IB"
     },
@@ -424,6 +452,22 @@
         "vehicle_model": "ScaniaK250IB"
     },
     {
+        "vehicle_id": "JQG6406",
+        "vehicle_model": "ScaniaK250IB"
+    },
+    {
+        "vehicle_id": "JQG7075",
+        "vehicle_model": "ScaniaK250IB"
+    },
+    {
+        "vehicle_id": "JRY7022",
+        "vehicle_model": "ScaniaK250IB"
+    },
+    {
+        "vehicle_id": "JRY7027",
+        "vehicle_model": "ScaniaK250IB"
+    },
+    {
         "vehicle_id": "JMQ4476",
         "vehicle_model": "ScaniaK310IB"
     },
@@ -465,6 +509,10 @@
     },
     {
         "vehicle_id": "JSJ6527",
+        "vehicle_model": "SksbusLEC-300H"
+    },
+    {
+        "vehicle_id": "JSJ7542",
         "vehicle_model": "SksbusLEC-300H"
     },
     {
@@ -669,6 +717,10 @@
     },
     {
         "vehicle_id": "JPA7238",
+        "vehicle_model": "SksbusSA12-300"
+    },
+    {
+        "vehicle_id": "JRU2140",
         "vehicle_model": "SksbusSA12-300"
     },
     {
@@ -1021,6 +1073,14 @@
     },
     {
         "vehicle_id": "JWK975",
+        "vehicle_model": "YutongZK6126HG"
+    },
+    {
+        "vehicle_id": "JWG7464",
+        "vehicle_model": "YutongZK6126HG"
+    },
+    {
+        "vehicle_id": "JWG7914",
         "vehicle_model": "YutongZK6126HG"
     },
     {
