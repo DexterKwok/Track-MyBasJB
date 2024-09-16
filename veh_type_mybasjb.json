@@ -60,6 +60,12 @@
         "vehicle_pic_description": ""
     },
     {
+        "vehicle_id": "JVT1254",
+        "vehicle_model": "FotonC12",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
         "vehicle_id": "JWG5132",
         "vehicle_model": "FotonC10",
         "vehicle_pic_url": "https://i.imgur.com/qjwtYfs.jpeg",
@@ -116,6 +122,24 @@
     {
         "vehicle_id": "JWK7519",
         "vehicle_model": "FotonC8L",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JWK7520",
+        "vehicle_model": "FotonC12",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JWK8329",
+        "vehicle_model": "FotonC12",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JWK8341",
+        "vehicle_model": "FotonC12",
         "vehicle_pic_url": "",
         "vehicle_pic_description": ""
     },
@@ -240,32 +264,14 @@
         "vehicle_pic_description": ""
     },
     {
-        "vehicle_id": "JVT1254",
-        "vehicle_model": "FotonC12",
-        "vehicle_pic_url": "",
-        "vehicle_pic_description": ""
-    },
-    {
-        "vehicle_id": "JWK7520",
-        "vehicle_model": "FotonC12",
-        "vehicle_pic_url": "",
-        "vehicle_pic_description": ""
-    },
-    {
-        "vehicle_id": "JWK8329",
-        "vehicle_model": "FotonC12",
-        "vehicle_pic_url": "",
-        "vehicle_pic_description": ""
-    },
-    {
-        "vehicle_id": "JWK8341",
-        "vehicle_model": "FotonC12",
-        "vehicle_pic_url": "",
-        "vehicle_pic_description": ""
-    },
-    {
         "vehicle_id": "JWV1256",
         "vehicle_model": "FotonC12",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "MDV3653",
+        "vehicle_model": "FotonC10",
         "vehicle_pic_url": "",
         "vehicle_pic_description": ""
     },
@@ -500,6 +506,12 @@
     {
         "vehicle_id": "JSM8852",
         "vehicle_model": "HinoRK1JSLL",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "VDP6819",
+        "vehicle_model": "HinoMidiBus",
         "vehicle_pic_url": "",
         "vehicle_pic_description": ""
     },
@@ -1470,10 +1482,22 @@
         "vehicle_pic_description": ""
     },
     {
+        "vehicle_id": "JSV1135",
+        "vehicle_model": "YutongZK6126HG",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
         "vehicle_id": "JSV1140",
         "vehicle_model": "YutongZK6126HG",
         "vehicle_pic_url": "",
         "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JSV1145",
+        "vehicle_model": "YutongZK6126HG",
+        "vehicle_pic_url": "https://i.imgur.com/nIMCfuN.jpeg",
+        "vehicle_pic_description": "Joer Tan 2024 JSV1145 CausewayLink YutongZK6126HG"
     },
     {
         "vehicle_id": "JSY1865",
@@ -1692,6 +1716,12 @@
         "vehicle_pic_description": ""
     },
     {
+        "vehicle_id": "JWF8609",
+        "vehicle_model": "YutongZK6126HG",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
         "vehicle_id": "JWG7464",
         "vehicle_model": "YutongZK6126HG",
         "vehicle_pic_url": "",
@@ -1782,6 +1812,12 @@
         "vehicle_pic_description": "Joer Tan 2024 JQR7143 CausewayLink YutongZK6118HGA"
     },
     {
+        "vehicle_id": "JQR7187",
+        "vehicle_model": "YutongZK6118HGA",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
         "vehicle_id": "JQS7507",
         "vehicle_model": "YutongZK6118HGA",
         "vehicle_pic_url": "",
@@ -1867,6 +1903,12 @@
     },
     {
         "vehicle_id": "JRF5867",
+        "vehicle_model": "YutongZK6118HGA",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JRF5870",
         "vehicle_model": "YutongZK6118HGA",
         "vehicle_pic_url": "",
         "vehicle_pic_description": ""
@@ -1988,6 +2030,18 @@
     {
         "vehicle_id": "JRY5144",
         "vehicle_model": "YutongZK6118HGA",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JXD5068",
+        "vehicle_model": "YutongZK6858H9",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JXD5071",
+        "vehicle_model": "YutongZK6858H9",
         "vehicle_pic_url": "",
         "vehicle_pic_description": ""
     }
