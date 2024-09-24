@@ -276,8 +276,14 @@
         "vehicle_pic_description": ""
     },
     {
+        "vehicle_id": "MDV4619",
+        "vehicle_model": "FotonC10",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
         "vehicle_id": "MDV3726",
-        "vehicle_model": "FotonC12",
+        "vehicle_model": "FotonC10",
         "vehicle_pic_url": "",
         "vehicle_pic_description": ""
     },
@@ -2042,6 +2048,30 @@
     {
         "vehicle_id": "JXD5071",
         "vehicle_model": "YutongZK6858H9",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "MDV2730",
+        "vehicle_model": "Zhongtong/TMS",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "MDV2653",
+        "vehicle_model": "Zhongtong/TMS",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "MDV2697",
+        "vehicle_model": "Zhongtong/TMS",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "MDV2713",
+        "vehicle_model": "Zhongtong/TMS",
         "vehicle_pic_url": "",
         "vehicle_pic_description": ""
     }
