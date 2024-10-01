@@ -1464,6 +1464,12 @@
         "vehicle_pic_description": ""
     },
     {
+        "vehicle_id": "JSU4728",
+        "vehicle_model": "YutongZK6126HG",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
         "vehicle_id": "JSU4730",
         "vehicle_model": "YutongZK6126HG",
         "vehicle_pic_url": "",
@@ -1776,6 +1782,24 @@
         "vehicle_pic_description": ""
     },
     {
+        "vehicle_id": "JXA4101",
+        "vehicle_model": "YutongZK6126HG",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JXA4102",
+        "vehicle_model": "YutongZK6126HG",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JXA4103",
+        "vehicle_model": "YutongZK6126HG",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
         "vehicle_id": "JQQ3934",
         "vehicle_model": "YutongZK6118HGA",
         "vehicle_pic_url": "",
@@ -1795,6 +1819,12 @@
     },
     {
         "vehicle_id": "JQQ4249",
+        "vehicle_model": "YutongZK6118HGA",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JQQ4273",
         "vehicle_model": "YutongZK6118HGA",
         "vehicle_pic_url": "",
         "vehicle_pic_description": ""
