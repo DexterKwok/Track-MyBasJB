@@ -48,22 +48,46 @@
         "vehicle_pic_description": ""
     },
     {
-        "vehicle_id": "JVT1237",
-        "vehicle_model": "FotonC10",
-        "vehicle_pic_url": "",
-        "vehicle_pic_description": ""
-    },
-    {
         "vehicle_id": "JVT1246",
         "vehicle_model": "FotonC8L",
         "vehicle_pic_url": "",
         "vehicle_pic_description": ""
     },
     {
-        "vehicle_id": "JVT1254",
-        "vehicle_model": "FotonC12",
+        "vehicle_id": "JWK7513",
+        "vehicle_model": "FotonC8L",
         "vehicle_pic_url": "",
         "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JWK7514",
+        "vehicle_model": "FotonC8L",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JWK7519",
+        "vehicle_model": "FotonC8L",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JWM6817",
+        "vehicle_model": "FotonC8L",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JWS6657",
+        "vehicle_model": "FotonC8L",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JVT1237",
+        "vehicle_model": "FotonC10",
+        "vehicle_pic_url": "https://i.imgur.com/U9aJSIw.jpeg",
+        "vehicle_pic_description": "City Rails 2024 JVT1237 myBasJohor Foton C10"
     },
     {
         "vehicle_id": "JWG5132",
@@ -108,50 +132,8 @@
         "vehicle_pic_description": ""
     },
     {
-        "vehicle_id": "JWK7513",
-        "vehicle_model": "FotonC8L",
-        "vehicle_pic_url": "",
-        "vehicle_pic_description": ""
-    },
-    {
-        "vehicle_id": "JWK7514",
-        "vehicle_model": "FotonC8L",
-        "vehicle_pic_url": "",
-        "vehicle_pic_description": ""
-    },
-    {
-        "vehicle_id": "JWK7519",
-        "vehicle_model": "FotonC8L",
-        "vehicle_pic_url": "",
-        "vehicle_pic_description": ""
-    },
-    {
-        "vehicle_id": "JWK7520",
-        "vehicle_model": "FotonC12",
-        "vehicle_pic_url": "",
-        "vehicle_pic_description": ""
-    },
-    {
-        "vehicle_id": "JWK8329",
-        "vehicle_model": "FotonC12",
-        "vehicle_pic_url": "",
-        "vehicle_pic_description": ""
-    },
-    {
-        "vehicle_id": "JWK8341",
-        "vehicle_model": "FotonC12",
-        "vehicle_pic_url": "",
-        "vehicle_pic_description": ""
-    },
-    {
         "vehicle_id": "JWL3709",
         "vehicle_model": "FotonC10",
-        "vehicle_pic_url": "",
-        "vehicle_pic_description": ""
-    },
-    {
-        "vehicle_id": "JWM6817",
-        "vehicle_model": "FotonC8L",
         "vehicle_pic_url": "",
         "vehicle_pic_description": ""
     },
@@ -164,12 +146,6 @@
     {
         "vehicle_id": "JWS6654",
         "vehicle_model": "FotonC10",
-        "vehicle_pic_url": "",
-        "vehicle_pic_description": ""
-    },
-    {
-        "vehicle_id": "JWS6657",
-        "vehicle_model": "FotonC8L",
         "vehicle_pic_url": "",
         "vehicle_pic_description": ""
     },
@@ -205,6 +181,12 @@
     },
     {
         "vehicle_id": "JWT3060",
+        "vehicle_model": "FotonC10",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JWT3063",
         "vehicle_model": "FotonC10",
         "vehicle_pic_url": "",
         "vehicle_pic_description": ""
@@ -252,7 +234,25 @@
         "vehicle_pic_description": ""
     },
     {
+        "vehicle_id": "JWU3491",
+        "vehicle_model": "FotonC10",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
         "vehicle_id": "JWU3494",
+        "vehicle_model": "FotonC10",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JWU748",
+        "vehicle_model": "FotonC10",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JWU762",
         "vehicle_model": "FotonC10",
         "vehicle_pic_url": "",
         "vehicle_pic_description": ""
@@ -264,13 +264,13 @@
         "vehicle_pic_description": ""
     },
     {
-        "vehicle_id": "JWV1256",
-        "vehicle_model": "FotonC12",
+        "vehicle_id": "MDV3653",
+        "vehicle_model": "FotonC10",
         "vehicle_pic_url": "",
         "vehicle_pic_description": ""
     },
     {
-        "vehicle_id": "MDV3653",
+        "vehicle_id": "MDV3726",
         "vehicle_model": "FotonC10",
         "vehicle_pic_url": "",
         "vehicle_pic_description": ""
@@ -282,8 +282,32 @@
         "vehicle_pic_description": ""
     },
     {
-        "vehicle_id": "MDV3726",
-        "vehicle_model": "FotonC10",
+        "vehicle_id": "JVT1254",
+        "vehicle_model": "FotonC12",
+        "vehicle_pic_url": "https://i.imgur.com/yAe2f2x.jpeg",
+        "vehicle_pic_description": "City Rails 2024 JVT1254 myBasJohor Foton C12"
+    },
+    {
+        "vehicle_id": "JWK7520",
+        "vehicle_model": "FotonC12",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JWK8329",
+        "vehicle_model": "FotonC12",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JWK8341",
+        "vehicle_model": "FotonC12",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JWV1256",
+        "vehicle_model": "FotonC12",
         "vehicle_pic_url": "",
         "vehicle_pic_description": ""
     },
@@ -410,8 +434,8 @@
     {
         "vehicle_id": "JTP2227",
         "vehicle_model": "HinoXZU720R",
-        "vehicle_pic_url": "",
-        "vehicle_pic_description": ""
+        "vehicle_pic_url": "https://i.imgur.com/IhvFOYg.jpeg",
+        "vehicle_pic_description": "City Rails 2024 JTP2227 myBasJohor Hino XZU720R"
     },
     {
         "vehicle_id": "JTQ5355",
@@ -606,12 +630,6 @@
         "vehicle_pic_description": ""
     },
     {
-        "vehicle_id": "JQM4054",
-        "vehicle_model": "ScaniaK250UB",
-        "vehicle_pic_url": "https://i.imgur.com/J9nKk8C.png",
-        "vehicle_pic_description": "Joer Tan 2024 JQM4054 CausewayLink ScaniaK250UB"
-    },
-    {
         "vehicle_id": "VAM1317",
         "vehicle_model": "ScaniaK250UB",
         "vehicle_pic_url": "",
@@ -626,8 +644,8 @@
     {
         "vehicle_id": "VCP5519",
         "vehicle_model": "ScaniaK250UB",
-        "vehicle_pic_url": "",
-        "vehicle_pic_description": ""
+        "vehicle_pic_url": "https://i.imgur.com/8N4vV0C.jpeg",
+        "vehicle_pic_description": "City Rails 2024 VCP5519 myBasJohor Scania K250UB"
     },
     {
         "vehicle_id": "VDJ8719",
@@ -661,6 +679,12 @@
     },
     {
         "vehicle_id": "JQD3642",
+        "vehicle_model": "ScaniaK250IB",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JQG6350",
         "vehicle_model": "ScaniaK250IB",
         "vehicle_pic_url": "",
         "vehicle_pic_description": ""
@@ -709,6 +733,12 @@
     },
     {
         "vehicle_id": "JQM3907",
+        "vehicle_model": "ScaniaK250IB",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JQM4054",
         "vehicle_model": "ScaniaK250IB",
         "vehicle_pic_url": "",
         "vehicle_pic_description": ""
@@ -828,12 +858,6 @@
         "vehicle_pic_description": ""
     },
     {
-        "vehicle_id": "JQM4054",
-        "vehicle_model": "ScaniaK310IB",
-        "vehicle_pic_url": "",
-        "vehicle_pic_description": ""
-    },
-    {
         "vehicle_id": "JSC6109",
         "vehicle_model": "SksbusLEC-300H",
         "vehicle_pic_url": "",
@@ -854,8 +878,8 @@
     {
         "vehicle_id": "JSF4451",
         "vehicle_model": "SksbusLEC-300H",
-        "vehicle_pic_url": "",
-        "vehicle_pic_description": ""
+        "vehicle_pic_url": "https://i.imgur.com/xTANmYR.jpeg",
+        "vehicle_pic_description": "City Rails 2024 JSF4451 myBasJohor Sksbus LEC-300H"
     },
     {
         "vehicle_id": "JSF4453",
@@ -1016,8 +1040,8 @@
     {
         "vehicle_id": "JSN521",
         "vehicle_model": "SksbusLEC-300H",
-        "vehicle_pic_url": "",
-        "vehicle_pic_description": ""
+        "vehicle_pic_url": "https://i.imgur.com/rF35DIh.jpeg",
+        "vehicle_pic_description": "City Rails 2024 JSN521 myBasJohor Sksbus LEC-300H"
     },
     {
         "vehicle_id": "JSN524",
@@ -1084,6 +1108,12 @@
         "vehicle_model": "SksbusLEC-300H",
         "vehicle_pic_url": "",
         "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "SS9658Y",
+        "vehicle_model": "SksbusLEC-300H",
+        "vehicle_pic_url": "https://i.imgur.com/EoghYqw.jpeg",
+        "vehicle_pic_description": "City Rails 2024 SS9658Y myBasJohor Sksbus LEC-300H"
     },
     {
         "vehicle_id": "SS9757Y",
@@ -1263,7 +1293,7 @@
         "vehicle_id": "JSD7547",
         "vehicle_model": "YutongZK6126HG",
         "vehicle_pic_url": "https://i.imgur.com/kNeVGSP.png",
-        "vehicle_pic_description": "Joer Tan 2024 JSD7547 CausewayLink YutongZK6126HG"
+        "vehicle_pic_description": "Joer Tan 2024 JSD7547 CausewayLink Yutong ZK6126HG"
     },
     {
         "vehicle_id": "JSD7549",
@@ -1334,8 +1364,8 @@
     {
         "vehicle_id": "JSK4313",
         "vehicle_model": "YutongZK6126HG",
-        "vehicle_pic_url": "",
-        "vehicle_pic_description": ""
+        "vehicle_pic_url": "https://i.imgur.com/mYcAbZU.jpeg",
+        "vehicle_pic_description": "City Rails 2024 JSK4313 BasMuafakatJohor Yutong ZK6126HG"
     },
     {
         "vehicle_id": "JSK7317",
@@ -1509,7 +1539,7 @@
         "vehicle_id": "JSV1145",
         "vehicle_model": "YutongZK6126HG",
         "vehicle_pic_url": "https://i.imgur.com/nIMCfuN.jpeg",
-        "vehicle_pic_description": "Joer Tan 2024 JSV1145 CausewayLink YutongZK6126HG"
+        "vehicle_pic_description": "Joer Tan 2024 JSV1145 CausewayLink Yutong ZK6126HG"
     },
     {
         "vehicle_id": "JSY1865",
@@ -1586,8 +1616,8 @@
     {
         "vehicle_id": "JVM2375",
         "vehicle_model": "YutongZK6126HG",
-        "vehicle_pic_url": "",
-        "vehicle_pic_description": ""
+        "vehicle_pic_url": "https://i.imgur.com/3EPR1Fz.jpeg",
+        "vehicle_pic_description": "City Rails 2024 JVM2375 myBasJohor Yutong ZK6126HG"
     },
     {
         "vehicle_id": "JVM2377",
@@ -1610,8 +1640,8 @@
     {
         "vehicle_id": "JVM2496",
         "vehicle_model": "YutongZK6126HG",
-        "vehicle_pic_url": "",
-        "vehicle_pic_description": ""
+        "vehicle_pic_url": "https://i.imgur.com/tkmCiC5.jpeg",
+        "vehicle_pic_description": "City Rails 2024 JVM2496 myBasJohor Yutong ZK6126HG"
     },
     {
         "vehicle_id": "JVM2500",
@@ -1664,8 +1694,8 @@
     {
         "vehicle_id": "JVY1958",
         "vehicle_model": "YutongZK6126HG",
-        "vehicle_pic_url": "",
-        "vehicle_pic_description": ""
+        "vehicle_pic_url": "https://i.imgur.com/ScqU6xH.jpeg",
+        "vehicle_pic_description": "City Rails 2024 JVY1958 myBasJohor Yutong ZK6126HG"
     },
     {
         "vehicle_id": "JVY6703",
@@ -1845,7 +1875,7 @@
         "vehicle_id": "JQR7143",
         "vehicle_model": "YutongZK6118HGA",
         "vehicle_pic_url": "https://i.imgur.com/aXz7Bmr.png",
-        "vehicle_pic_description": "Joer Tan 2024 JQR7143 CausewayLink YutongZK6118HGA"
+        "vehicle_pic_description": "Joer Tan 2024 JQR7143 CausewayLink Yutong ZK6118HGA"
     },
     {
         "vehicle_id": "JQR7187",
@@ -1938,6 +1968,12 @@
         "vehicle_pic_description": ""
     },
     {
+        "vehicle_id": "JRU9425",
+        "vehicle_model": "YutongZK6118HGA",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
         "vehicle_id": "JRF5867",
         "vehicle_model": "YutongZK6118HGA",
         "vehicle_pic_url": "",
@@ -1969,6 +2005,12 @@
     },
     {
         "vehicle_id": "JRF6508",
+        "vehicle_model": "YutongZK6118HGA",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JRF8705",
         "vehicle_model": "YutongZK6118HGA",
         "vehicle_pic_url": "",
         "vehicle_pic_description": ""
@@ -2071,6 +2113,12 @@
     },
     {
         "vehicle_id": "JXD5068",
+        "vehicle_model": "YutongZK6858H9",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JXD5069",
         "vehicle_model": "YutongZK6858H9",
         "vehicle_pic_url": "",
         "vehicle_pic_description": ""
