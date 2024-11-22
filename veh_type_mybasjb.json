@@ -1038,6 +1038,12 @@
         "vehicle_pic_description": ""
     },
     {
+        "vehicle_id": "JSG6384",
+        "vehicle_model": "SksbusLEC-300H",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
         "vehicle_id": "JSG709",
         "vehicle_model": "SksbusLEC-300H",
         "vehicle_pic_url": "",
@@ -1302,6 +1308,18 @@
         "vehicle_pic_description": ""
     },
     {
+        "vehicle_id": "JRU2140",
+        "vehicle_model": "SksbusC6",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JRU2142",
+        "vehicle_model": "SksbusC6",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
         "vehicle_id": "JRU2145",
         "vehicle_model": "SksbusC6",
         "vehicle_pic_url": "",
@@ -1327,6 +1345,12 @@
     },
     {
         "vehicle_id": "JSF2973",
+        "vehicle_model": "SksbusC6",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JQX9285",
         "vehicle_model": "SksbusC6",
         "vehicle_pic_url": "",
         "vehicle_pic_description": ""
@@ -1381,18 +1405,6 @@
     },
     {
         "vehicle_id": "JQU4763",
-        "vehicle_model": "SksbusSA12-300",
-        "vehicle_pic_url": "",
-        "vehicle_pic_description": ""
-    },
-    {
-        "vehicle_id": "JRU2140",
-        "vehicle_model": "SksbusSA12-300",
-        "vehicle_pic_url": "",
-        "vehicle_pic_description": ""
-    },
-    {
-        "vehicle_id": "JRU2142",
         "vehicle_model": "SksbusSA12-300",
         "vehicle_pic_url": "",
         "vehicle_pic_description": ""
@@ -2179,6 +2191,12 @@
     },
     {
         "vehicle_id": "JQT455",
+        "vehicle_model": "YutongZK6118HGA",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JQT514",
         "vehicle_model": "YutongZK6118HGA",
         "vehicle_pic_url": "",
         "vehicle_pic_description": ""
