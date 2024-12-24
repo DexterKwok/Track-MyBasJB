@@ -168,12 +168,6 @@
         "vehicle_pic_description": ""
     },
     {
-        "vehicle_id": "JWN1462",
-        "vehicle_model": "FotonC10",
-        "vehicle_pic_url": "",
-        "vehicle_pic_description": ""
-    },
-    {
         "vehicle_id": "JWS6654",
         "vehicle_model": "FotonC10",
         "vehicle_pic_url": "",
@@ -300,7 +294,19 @@
         "vehicle_pic_description": ""
     },
     {
+        "vehicle_id": "JWU856",
+        "vehicle_model": "FotonC10",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
         "vehicle_id": "JWU859",
+        "vehicle_model": "FotonC10",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JWJ3041",
         "vehicle_model": "FotonC10",
         "vehicle_pic_url": "",
         "vehicle_pic_description": ""
@@ -1296,6 +1302,12 @@
         "vehicle_pic_description": ""
     },
     {
+        "vehicle_id": "JRU2134",
+        "vehicle_model": "SksbusC6",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
         "vehicle_id": "JRU2137",
         "vehicle_model": "SksbusC6",
         "vehicle_pic_url": "",
@@ -1368,6 +1380,12 @@
         "vehicle_pic_description": ""
     },
     {
+        "vehicle_id": "JNU6089",
+        "vehicle_model": "SksbusSA12-300",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
         "vehicle_id": "JNJ1336",
         "vehicle_model": "SksbusSA12-300",
         "vehicle_pic_url": "",
@@ -1406,6 +1424,12 @@
     {
         "vehicle_id": "JQU4763",
         "vehicle_model": "SksbusSA12-300",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "BPV6419",
+        "vehicle_model": "Silverbus_TCIE_SL900",
         "vehicle_pic_url": "",
         "vehicle_pic_description": ""
     },
@@ -2094,6 +2118,12 @@
         "vehicle_pic_description": ""
     },
     {
+        "vehicle_id": "JWN1462",
+        "vehicle_model": "YutongZK6126HG",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
         "vehicle_id": "JXA4099",
         "vehicle_model": "YutongZK6126HG",
         "vehicle_pic_url": "",
@@ -2118,7 +2148,43 @@
         "vehicle_pic_description": ""
     },
     {
+        "vehicle_id": "JXB4945",
+        "vehicle_model": "YutongZK6126HG",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JXE5237",
+        "vehicle_model": "YutongZK6126HG",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JXE7241",
+        "vehicle_model": "YutongZK6126HG",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JXF1242",
+        "vehicle_model": "YutongZK6126HG",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JXF2383",
+        "vehicle_model": "YutongZK6126HG",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
         "vehicle_id": "JXF2897",
+        "vehicle_model": "YutongZK6126HG",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JXH1236",
         "vehicle_model": "YutongZK6126HG",
         "vehicle_pic_url": "",
         "vehicle_pic_description": ""
@@ -2239,6 +2305,12 @@
     },
     {
         "vehicle_id": "JQT736",
+        "vehicle_model": "YutongZK6118HGA",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JQU1084",
         "vehicle_model": "YutongZK6118HGA",
         "vehicle_pic_url": "",
         "vehicle_pic_description": ""
