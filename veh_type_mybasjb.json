@@ -684,6 +684,12 @@
         "vehicle_pic_description": ""
     },
     {
+        "vehicle_id": "VE2316",
+        "vehicle_model": "NissanJP251",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
         "vehicle_id": "VJ6916",
         "vehicle_model": "NissanJP251",
         "vehicle_pic_url": "",
@@ -1266,6 +1272,12 @@
         "vehicle_pic_description": ""
     },
     {
+        "vehicle_id": "JQY2433",
+        "vehicle_model": "SksbusC6",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
         "vehicle_id": "JQY2428",
         "vehicle_model": "SksbusC6",
         "vehicle_pic_url": "",
@@ -1423,6 +1435,12 @@
     },
     {
         "vehicle_id": "JQU4763",
+        "vehicle_model": "SksbusSA12-300",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JRQ2602",
         "vehicle_model": "SksbusSA12-300",
         "vehicle_pic_url": "",
         "vehicle_pic_description": ""
@@ -2178,7 +2196,25 @@
         "vehicle_pic_description": ""
     },
     {
+        "vehicle_id": "JXF2895",
+        "vehicle_model": "YutongZK6126HG",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
         "vehicle_id": "JXF2897",
+        "vehicle_model": "YutongZK6126HG",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JXF2914",
+        "vehicle_model": "YutongZK6126HG",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JXG6707",
         "vehicle_model": "YutongZK6126HG",
         "vehicle_pic_url": "",
         "vehicle_pic_description": ""
@@ -2485,6 +2521,18 @@
     },
     {
         "vehicle_id": "JRY5144",
+        "vehicle_model": "YutongZK6118HGA",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "PLM414",
+        "vehicle_model": "YutongZK6118HGA",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "PLH717",
         "vehicle_model": "YutongZK6118HGA",
         "vehicle_pic_url": "",
         "vehicle_pic_description": ""
